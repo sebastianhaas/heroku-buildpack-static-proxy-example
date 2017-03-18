@@ -13,7 +13,7 @@
   "https_only": true,
   "proxies": {
     "/api/": {
-      "origin": "https://scheduling-server.herokuapp.com/api/rooms"
+      "origin": "https://scheduling-server.herokuapp.com/api/"
     }
   },
   "root": ".",
